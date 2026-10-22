@@ -9,7 +9,7 @@ Repository ini berisi implementasi dua algoritma *Machine Learning* menggunakan 
 |---|---|---|
 | 1 | HANAFI RAIHAN FIRMANSYAH PUTRA | 25523052 |
 | 2 | PURNAMA ANNISA | 25523279 |
-| 3 | CHEALSEA | ...... |
+| 3 | CHELSY ALFADDHILLAH | 25523272 |
 
 ## Struktur Repository
 
